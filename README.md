@@ -13,5 +13,10 @@ de avancer l'histoire.
 Captures d'écran :
 Chaque rôle a une capacité spéciale, le chiot est le constructeur qui est capable
 de construire des blocs de pierre et le lapin est doté d'une capacité de détruire
-## In Dev
-None
+## Demo Gameplay
+Capture scene gameplay 1 :  
+![Gameplay1](https://github.com/AmaranthYan/Adventure2D/blob/master/Screenshots/Gameplay1.PNG)
+Capture scene gameplay 2 : 
+![Gameplay2](https://github.com/AmaranthYan/Adventure2D/blob/master/Screenshots/Gameplay2.PNG)
+Capture scene gameplay 3 : 
+![Gameplay3](https://github.com/AmaranthYan/Adventure2D/blob/master/Screenshots/Gameplay3.PNG)
