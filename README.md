@@ -1,22 +1,23 @@
-Attention : README in progress...
 # Adventure2D
-My personal project during summer 2014
+My 2-month personal project during the summer vacation of 2014
 ![MainMenu](https://github.com/AmaranthYan/Adventure2D/blob/master/Screenshots/MainMenu.PNG)
 ## Intro
-Un projet périscolaire de 1,5 mois développé pendant la vacance d'été avec
-l'aide d'un graphiste. Inspiré et motivé par une idée attirante de jeu, je me suis
-engagé dans un projet de jeu de plates-formes de multiples rôles. Le jeu raconte une
-histoire d'aventure de deux animaux(un chiot et un lapin) avec chaque rôle doté
-d'une capacité unique. Le jeu consiste en 10 scènes séquentielles et le joueur joue
-les deux rôles en basculant entre eux à travers les difficultés dans chaque scène afin
-de avancer l'histoire.
-Captures d'écran :
-Chaque rôle a une capacité spéciale, le chiot est le constructeur qui est capable
-de construire des blocs de pierre et le lapin est doté d'une capacité de détruire
+Inspired and motivated by an idea that I had for a long time, I made this multi-role 2D platform game. The game tells an adventure story of two little animals (a puppy and a bunny), each has its own unique ability. The two little animals have to cooperate with each other in ordre to solve puzzles and reach the very end of their jounery.  
+The game consists of 10 simple levels and the total length of the gameplay is between 20-30 mins.  
+I hereby thank **Uaecrom**, my best friend and an amateur artist, who supported me and helped me with all the amazing background artworks in the game.
+## Controls
+**`A`** **`D`** / **`Left`** **`Right`** : Move  
+**`W`** / **`Up`** : Jump  
+**`C`** : Switch between characters  
+**`E`** : Use object  
+**`RightClic`** : Activate ability  
+**`LeftClic`** *after RightClic* : Use ability  
 ## Demo Gameplay
 Capture scene gameplay 1 :  
+Each character has an unique skill, the puppy is able to create a barrier that blocks damages and the bunny's ability is to destroy everything that is on her way  
 ![Gameplay1](https://github.com/AmaranthYan/Adventure2D/blob/master/Screenshots/Gameplay1.PNG)
-Capture scene gameplay 2 : 
+Capture scene gameplay 2 :  
 ![Gameplay2](https://github.com/AmaranthYan/Adventure2D/blob/master/Screenshots/Gameplay2.PNG)
-Capture scene gameplay 3 : 
+Capture scene gameplay 3 :  
+a 2D rope physique simulation
 ![Gameplay3](https://github.com/AmaranthYan/Adventure2D/blob/master/Screenshots/Gameplay3.PNG)
