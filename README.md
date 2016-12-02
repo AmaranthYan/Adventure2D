@@ -19,5 +19,5 @@ Each character has an unique skill, the puppy is able to create a barrier that b
 Capture scene gameplay 2 :  
 ![Gameplay2](https://github.com/AmaranthYan/Adventure2D/blob/master/Screenshots/Gameplay2.PNG)
 Capture scene gameplay 3 :  
-a 2D rope physique simulation
+a 2D rope physical simulation
 ![Gameplay3](https://github.com/AmaranthYan/Adventure2D/blob/master/Screenshots/Gameplay3.PNG)
