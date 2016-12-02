@@ -3,8 +3,8 @@ My 2-month personal project during the summer vacation of 2014
 ![MainMenu](https://github.com/AmaranthYan/Adventure2D/blob/master/Screenshots/MainMenu.PNG)
 ## Intro
 Inspired and motivated by an idea that I had for a long time, I made this multi-role 2D platform game. The game tells an adventure story of two little animals (a puppy and a bunny), each has its own unique ability. The two little animals have to cooperate with each other in ordre to solve puzzles and reach the very end of their jounery.  
-The game consists of 10 simple levels and the total length of the gameplay is between 20-30 mins.  
-I hereby thank **Uaecrom**, my best friend and an amateur artist, who supported me and helped me with all the amazing background artworks in the game.
+The game consists of 10 simple levels and the total length of gameplay is between 20-30 mins.  
+I hereby thank **@Uaecrom**, my best friend and an amateur artist, who supported me and helped me with all the amazing background artworks in the game.
 ## Controls
 **`A`** **`D`** / **`Left`** **`Right`** : Move  
 **`W`** / **`Up`** : Jump  
